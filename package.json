@@ -1,6 +1,6 @@
 {
   "name": "janus-no-jquery",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "janus libray without jquery",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "vigikaran.php@gmail.com",
   "license": "ISC",
   "dependencies": {
-    
+    "webrtc-adapter": "^7.6.1"
   }
 }
