@@ -1,4 +1,4 @@
-import adapter from 'webrtc-adapter'
+const adapter = require('webrtc-adapter')
 // List of sessions
 Janus.sessions = {}
 
