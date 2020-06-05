@@ -1,6 +1,6 @@
 {
   "name": "janus-no-jquery",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "janus libray without jquery",
   "main": "index.js",
   "scripts": {
